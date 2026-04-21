@@ -1,0 +1,9 @@
+date,channel,campaign_type,impressions,clicks,conversions,spend,revenue
+2026-01-05,Google Search,Lead Gen,12000,640,54,580,3100
+2026-01-05,Meta Ads,Awareness,28000,720,26,490,1200
+2026-01-06,LinkedIn,Lead Gen,9000,310,39,450,2650
+2026-01-06,TikTok,Awareness,35000,880,21,510,980
+2026-01-07,Google Search,Retargeting,8500,590,61,420,3580
+2026-01-07,Meta Ads,Retargeting,13000,540,47,390,2410
+2026-01-08,LinkedIn,Lead Gen,10200,330,42,470,2790
+2026-01-08,Email,Retention,6500,540,88,140,2140
